@@ -1,4 +1,4 @@
-package com.Exercise9;
+package com.Exercise11;
 import java.lang.*;
 public class Task1 implements Runnable {
     Thread thread;
